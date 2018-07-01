@@ -16,6 +16,21 @@ h2:first-of-type {
     margin-top: 0.5em;
 }
 
+.button {
+    background-color: rgb(169, 169, 169);
+    border-style: inset;
+    border-radius: 20%;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+
 table,
 tr,
 td {
