@@ -20,7 +20,7 @@ h2:first-of-type {
     background-color: rgb(169, 169, 169);
     border-style: inset;
     border-radius: 20%;
-    color: white;
+    color: rgb(255, 255, 255);
     padding: 15px 32px;
     text-align: center;
     text-decoration: none;

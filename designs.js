@@ -13,8 +13,8 @@ function makeGrid() {
     }
   }
 
-  $('#sizePicker').on('submit', function(Event){
-    Event.preventDefault()
+  $('#sizePicker').on('submit', function(Evnt){
+    Evnt.preventDefault()
     makeGrid();
   });
 
